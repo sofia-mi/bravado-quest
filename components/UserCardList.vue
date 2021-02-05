@@ -110,11 +110,11 @@
 <style scoped>
 
   .container {
-    min-height: calc(100vh - 130px);
+    min-height: calc(100vh - 150px);
   }
 
   .scroller {
-    max-height: calc(100vh - 130px);
+    max-height: calc(100vh - 150px);
   }
 
   .scroller::-webkit-scrollbar-track {

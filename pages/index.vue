@@ -26,6 +26,7 @@
   .container {
     padding: 19px 12px;
     background: #FFFFFF;
+    max-height: calc(100vh - 60px);
   }
 
   @media (max-width: 620px) {
