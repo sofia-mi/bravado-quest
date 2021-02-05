@@ -1,0 +1,3 @@
+export const SET_USERS = 'SET_USERS';
+export const SET_DOWNLOADING = 'SET_DOWNLOADING';
+export const SET_SEARCHING = 'SET_SEARCHING';
